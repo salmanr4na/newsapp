@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4c5fb6f8.css","mappings":"AACA,YAEI,wBACJ,CACA,KACI,YACJ","sources":["Components/style.css"],"sourcesContent":["\r\n.background \r\n{\r\n    background-color: rgb(255, 126, 27);\r\n}\r\n.ggg{\r\n    height: 400px;\r\n}"],"names":[],"sourceRoot":""}
