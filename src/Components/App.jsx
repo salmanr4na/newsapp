@@ -19,7 +19,7 @@ const changeSearch = (data)=>
     setSearch(data)
 }
         return (
-            <BrowserRouter>
+            <BrowserRouter basename='/newsapp'>
                 <Navbar changeLanguage={changeLanguage} changeSearch={changeSearch} />
                 <Routes>
                     <Route path='/' element={<Home search={search} language={language} q="All" />} />
